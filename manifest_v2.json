@@ -56,7 +56,7 @@
     }
   },
   "ext": {
-    "bundledResource": {
+    "bundledResources": {
       "require": [
         {
           "type": "resource",
