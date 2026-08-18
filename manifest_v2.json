@@ -55,5 +55,14 @@
       "file_name": "downloads/com.shell.liangyi.release.1.0.2.rpk"
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResource": {
+      "require": [
+        {
+          "type": "resource",
+          "id": "979889683730"
+        }
+      ]
+    }
+  }
 }
