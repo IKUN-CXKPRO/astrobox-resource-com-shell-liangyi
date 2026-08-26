@@ -9,7 +9,7 @@
       "media/Shell++_framed_1.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/1109537bb54ecabe5418c3f04ac7c510.png",
+    "cover": "media/Shell++封面.png",
     "author": [
       {
         "name": "IKUN_CXKPRO",
@@ -33,26 +33,26 @@
     {
       "title": "shell++官网",
       "url": "https://shellpp.cxkpro.top/",
-      "icon": ""
+      "icon": "Link"
     },
     {
       "title": "Android同步器",
       "url": "https://github.com/Shellplusplus/Shellplusplus/releases/download/1.0.1/apk-app-release.apk",
-      "icon": ""
+      "icon": "AndroidLogo"
     }
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.shell.liangyi.release.1.0.2.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.shell.liangyi.release.1.0.3.rpk"
     },
     "xmb10p": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.shell.liangyi.release.1.0.2.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.shell.liangyi.release.1.0.3.rpk"
     },
     "xmrw6": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.shell.liangyi.release.1.0.2.rpk"
+      "version": "1.0.3",
+      "file_name": "downloads/com.shell.liangyi.release.1.0.3.rpk"
     }
   },
   "ext": {
